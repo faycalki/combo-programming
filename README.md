@@ -1,7 +1,4 @@
-# Activity-3-Combos
-
-Activity 3 for CS-2611 F23 that tests a specific usage of the Linked List data structure.
-Completed by Faycal Kilali, starter code by Ada Clevinger in COMP-2711 Class of MTA.
+Combo-Based game
 
 ![Combo SVG](Design.svg)
 
